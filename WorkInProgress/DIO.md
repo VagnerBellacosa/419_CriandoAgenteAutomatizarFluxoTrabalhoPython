@@ -73,3 +73,9 @@ Desenvolva um agente em Python capaz de automatizar tarefas e etapas de um fluxo
 
 Microsoft MVP, Microsoft[**](https://www.linkedin.com/in/hsouzaeduardo/?locale=pt_BR)
 
+
+
+https://web.dio.me/lab/criando-um-agente-para-automatizar-um-fluxo-de-trabalho/learning/6634e12c-42c2-4d96-92bb-55058f769fbe?back=/track/ci-t-do-prompt-ao-agente
+
+
+
